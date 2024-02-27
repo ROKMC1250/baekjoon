@@ -12,5 +12,5 @@ sum = 0
 #                 sum += j
 #                 sum += i // j
 for i in range(1, N + 1):
-    sum += i *( N//i)
+    sum += i * (N // i)
 print(sum)
